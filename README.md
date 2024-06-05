@@ -1,4 +1,4 @@
-![TEDxJMI logo](res/images/logos/light.png)
+![TEDxJMI logo](res/images/logos/VITB.jpg)
 
 > Event website for TEDxVITB 2024
 
